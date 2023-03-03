@@ -1,0 +1,5 @@
+C:\Users\joao.pmsilva47\source\repos\cadastro de 5 alunos\cadastro de 5 alunos\obj\Debug\net6.0\cadastro de 5 alunos.csproj.AssemblyReference.cache
+C:\Users\joao.pmsilva47\source\repos\cadastro de 5 alunos\cadastro de 5 alunos\obj\Debug\net6.0\cadastro de 5 alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.pmsilva47\source\repos\cadastro de 5 alunos\cadastro de 5 alunos\obj\Debug\net6.0\cadastro de 5 alunos.AssemblyInfoInputs.cache
+C:\Users\joao.pmsilva47\source\repos\cadastro de 5 alunos\cadastro de 5 alunos\obj\Debug\net6.0\cadastro de 5 alunos.AssemblyInfo.cs
+C:\Users\joao.pmsilva47\source\repos\cadastro de 5 alunos\cadastro de 5 alunos\obj\Debug\net6.0\cadastro de 5 alunos.csproj.CoreCompileInputs.cache
